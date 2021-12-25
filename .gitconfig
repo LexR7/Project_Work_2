@@ -1,0 +1,7 @@
+[user]
+	name = Alexey
+	email = AlexeyR7@mail.ru
+[alias]
+	last = log -1 HEAD
+	history = log --pretty=format:\"%h %s\" --graph
+	shorty = status --short --branch
